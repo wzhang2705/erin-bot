@@ -28,7 +28,6 @@ header {
     margin-right: 0px;
     text-align: center;
     padding: 0px;
-    position: fixed;
     width: 100%;
 }
 header div {
@@ -40,7 +39,6 @@ header div {
     color: #030324;
     font-family: 'Roboto', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
-    position: relative;
     animation-name: example;
     animation-duration: 4s;
     animation-timing-function: ease;
@@ -68,7 +66,6 @@ nav ul li {
     margin-left: 2px;
     margin-right: 2px;
     padding: 24px 10px;
-    position: relative;
 }
 nav ul li a {
     text-decoration: none;
@@ -84,7 +81,7 @@ nav ul li a:hover {
 .intro {
     color: #060629;
     text-align: center;
-    padding: 300px;
+    padding: 100px;
 }
 .desktop {
     display: inline-block;
@@ -119,7 +116,6 @@ nav ul li a:hover {
     padding: 20px;
     border: 5px ridge rgba(137, 147, 175, 0.76);
     color: #dadaf0;
-    position: relative;
     margin-top: 10px;
 }
 .intro div h1 {
@@ -153,6 +149,31 @@ button {
     padding: 30px;
     text-transform: uppercase;
 }
+.chatbot {
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 5px ridge gray;
+    padding: 5px;
+    text-align: center;
+}
+.chatbot h1 {
+    font-size: 16px;
+    text-align: center;
+}
+.row {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.row div {
+    display: inline-block;
+    margin: 5%;
+}
+.row img {
+    border-radius: 50%;
+    width: 100px;
+}
+
 footer {
     text-align: center;
     background-color: rgba(147, 167, 175, 0.815);
