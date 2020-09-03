@@ -10,4 +10,4 @@ the hassle and overwhelming feeling of information overload when it comes to res
 We hope that many companies today can consider Erin Bot as a potential way to introduce a company to its
 prospective employees!
 
-You can test out the bot at www.jieying-l.github.io/erin-bot
+You can test out the bot at https://jieying-l.github.io/erin-bot/
